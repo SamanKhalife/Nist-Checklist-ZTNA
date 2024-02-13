@@ -1,9 +1,11 @@
 # Zero Trust Network Access (ZTNA) Detailed Checklist
 
-If you dont read the documents and you dont know about nist rules for enterprises you can read these 3 docs::
+If you dont read the documents and you dont know about nist (n-i-s-t) rules for enterprises you can read these 3 docs::
 
 [NIST.SP.800-207A](https://github.com/SamanKhalife/Nist-Checklist-ZTNA/blob/main/NIST-documents/NIST.SP.800-207A.pdf.pdf)
+
 [NIST.SP.800-215](https://github.com/SamanKhalife/Nist-Checklist-ZTNA/blob/main/NIST-documents/NIST.SP.800-215.pdf.pdf)
+
 [NIST.SP.800-207](https://github.com/SamanKhalife/Nist-Checklist-ZTNA/blob/main/NIST-documents/nist.sp.800-207.pdf.pdf)
 
 
